@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2D0A7C3B-9EB8-4CF7-9C2A-76E416496FA4}|Default">
+  <MonoDevelop.Ide.ItemProperties.treehouse__csharp__basics__final__quiz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="treehouse_csharp_basics_final_quiz/Program.cs">
+    <Files>
+      <File FileName="treehouse_csharp_basics_final_quiz/Program.cs" Line="35" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
