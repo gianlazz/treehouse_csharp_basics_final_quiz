@@ -12,7 +12,7 @@ namespace Treehouse.CodeChallenges
                 string userEntry = Console.ReadLine();
                 int x = 0;
 
-                if(userEntry == "quit") {
+                if(userEntry.ToLower() == "quit") {
                     break;
                 }
 
