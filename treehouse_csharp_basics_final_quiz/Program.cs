@@ -6,16 +6,13 @@ namespace Treehouse.CodeChallenges
     {
         static void Main()
         {
-            bool keepGoing = true;
-
-            while (keepGoing)
+            while (true)
             {
                 Console.Write("Enter the number of times to print \"Yay!\": ");
                 string userEntry = Console.ReadLine();
                 int x = 0;
 
                 if(userEntry == "quit") {
-                    keepGoing = false;
                     break;
                 }
 
