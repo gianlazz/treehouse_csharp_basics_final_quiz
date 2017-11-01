@@ -18,6 +18,11 @@ namespace Treehouse.CodeChallenges
 
                 try
                 {
+                    if (int.Parse(userEntry) < 0)
+                    {
+                        Console.WriteLine("You must enter a positive number.");
+                    }
+
                     while (x < int.Parse(userEntry))
                     {
                         Console.Write("Yay!");
